@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I am MASTER !!!!!!
 I am MASTER !!!!!!
+=======
+I am MASTER
+I am Branch Login
+>>>>>>> login
